@@ -34,8 +34,8 @@ Upon completion of the assignment, please follow these steps to submit your work
       - The HTML page.
       - The CSS file.
       - The assets directory.
-      - The `package.json` file.
-   - Please **do not include** the `node_modules` directory and `package-lock.json` file in your repository.
+      - The `package.json` and `package-lock.json` files.
+   - Please **do not include** the `node_modules` directory in your repository.
 
 2. **Commit and Push Your Code:**
    - Commit your code to the Git repository.
@@ -55,6 +55,7 @@ Upon completion of the assignment, please follow these steps to submit your work
 - The provided design should be considered as a final client requirement. Your ability to deliver a product that matches the client's expectation is key.
 - Focus on the quality of your code, including its structure, readability, and comments where necessary.
 - While external libraries can be used, over-reliance on them for basic styling may negatively impact the evaluation of your fundamental CSS skills.
+- The deadline for assignment submission is **Monday, January 22nd, 2024**. Please submit your work before the deadline to ensure it is evaluated on time.
 
 ### Evaluation Criteria
 
@@ -70,6 +71,8 @@ Your submission will be evaluated on:
 To ensure a smooth start to your project, we've set up some initial steps. Following these steps will help you get up and running with the provided HTML page and the Node.js HTTP server, which you'll use to serve your page.
 
 ### Step 1: Clone this repository
+
+You can either download the repository as a ZIP file or clone it using Git. 
 
 ### Step 2: Review the Provided HTML Page
 
