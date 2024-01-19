@@ -1,0 +1,14 @@
+{
+  "name": "frontend-assignment",
+  "version": "1.0.0",
+  "description": "Frontend Engineer Take-Home Assignment",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
