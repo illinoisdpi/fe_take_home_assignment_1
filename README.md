@@ -42,7 +42,7 @@ Upon completion of the assignment, please follow these steps to submit your work
    - Push the commit(s) to a new repository on GitHub.
 
 3. **Share the Repository Link:**
-   - Once your code is pushed, please share the link to the repository with me. You can send the link via email to stokkar@uillinois.edu.
+   - Once your code is pushed, please share the link to the repository with me. You can send the link via email to me.
 
 4. **Include a README File:**
    - In the repository, include a README file that explains:
